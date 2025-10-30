@@ -56,3 +56,4 @@
         echo "Nilai UAS: " . $data["uas"] . "<br>";
     }
         ;
+?>
